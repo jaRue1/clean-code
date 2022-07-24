@@ -63,6 +63,12 @@ Example:
 AccountVistor (no)
 jobQueue (yes)
 
-
+Problem Domain: when there is no clear path for what you are doing within the world of code. Use the name from the domain the problem came from. This is usually where very unique 'business logic' lives.
+ 
 </pre>
-<pre></pre>
+
+<pre>
+Add Meaningful Context,
+
+Enclose meaningful names within classes, functions, or namespaces.
+</pre>
