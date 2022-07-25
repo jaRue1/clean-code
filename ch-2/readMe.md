@@ -72,3 +72,5 @@ Add Meaningful Context,
 
 Enclose meaningful names within classes, functions, or namespaces.
 </pre>
+
+check out the src folder for examples
